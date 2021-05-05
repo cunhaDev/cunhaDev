@@ -10,6 +10,8 @@ Apaixonado por Desenvolvimento de Software, principalmente pelo Backend.
 Martin Fowler diz:
 “Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender”.
 
+# Skills:
+
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)   ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  ![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 

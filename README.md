@@ -18,26 +18,9 @@ Martin Fowler diz:
 ![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=black)
-
-# Databases:
-
 ![MYSQL](https://img.shields.io/badge/MySQL-003399?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-# Cloud:
-
-![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GOOGLE CLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-# Git:
-
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
-# IDE:
-
-![VSCODE](https://img.shields.io/badge/VS%20CODE-E34F26?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![ECLIPSE](https://img.shields.io/badge/ECLIPSE-0039e6?style=for-the-badge&logo=eclipse&logoColor=white)
-
+![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
